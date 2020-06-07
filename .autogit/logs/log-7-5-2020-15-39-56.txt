@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 07 2020 15:39:56 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/Components/Profile/profile.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
