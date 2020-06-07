@@ -1,0 +1,17 @@
+.home-container{
+ display: flex;
+
+}
+
+.profile_properties{
+    width: 70%;
+margin-left: 25px;
+margin-right: 5px;
+padding: 20px;
+border-right: 1px solid lightgray;
+}
+
+.Add_friend_properties{
+    padding-top: 10px;
+    padding-left: 25px;
+}

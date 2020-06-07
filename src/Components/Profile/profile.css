@@ -1,0 +1,25 @@
+.profile_components{
+    margin-left: 35px;
+    margin-top: 19px;
+    margin-bottom: 15px;
+    border-bottom:3px solid grey;
+    
+}
+.Profile_picture{
+    width: 15%;
+border-radius: 155px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.text_part{
+    text-align: center;
+}
+.name{
+    font-size: 55px;
+    margin-top: 0px;
+    font-weight: 200;
+}
+.buttons{
+    margin-bottom: 15px;
+}
