@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 07 2020 18:40:30 GMT+0600 (Bangladesh Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-7-5-2020-18-10-24.txt
+
+
+Deleted files:
+
+
+Renamed files:
